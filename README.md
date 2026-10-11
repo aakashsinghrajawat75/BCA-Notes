@@ -211,4 +211,5 @@ All notes are shared to help fellow BCA students. Please give credit if you shar
 ## 🌟 Star this repo if it helped you!
 
 > Made with ❤️ by **Aakash Singh Rajawat** | BCA 3rd Year
-> 📧 GitHub: [@aakashsinghrajawat75](https://github.com/aakashsinghrajawat75)
+> 🐙 GitHub: [@aakashsinghrajawat75](https://github.com/aakashsinghrajawat75)
+> 💼 LinkedIn: [Aakash Rajawat](https://www.linkedin.com/in/aakashrajawat75/)
